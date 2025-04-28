@@ -2,7 +2,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-4CBB17?style=for-the-badge)
 
-# 🧠 Document Helper Chatbot
+# 🤖 Document Helper Chatbot
 
 A **Streamlit**-powered chatbot that lets you interact with arbitrary documents.  
 It leverages **Cohere** for embedding generation, **Pinecone** for vector storage & similarity search, and **LangChain** for prompt/chaining logic—delivered in a clean, Docker-ready package.
