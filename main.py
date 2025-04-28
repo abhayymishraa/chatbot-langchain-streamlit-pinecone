@@ -1,6 +1,8 @@
 from typing import Set
 import streamlit as st
 from backend.core import runllm
+from dotenv import load_dotenv
+load_dotenv()
 
 st.markdown(
     """
